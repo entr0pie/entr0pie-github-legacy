@@ -13,7 +13,7 @@ A elegância. Não existe nada mais elegante do que encontrar a resposta que des
 
 Sei que esse site é bem nichado, mas queria ter a oportunidade de dizer, à qualquer um, experimente. Sinta na pele todo o ciclo da conquista, igual aos nossos anterpassados - os gregos descobrindo e postulando as bases da matemática, passando pelos romanos, a grande queda do grande império, novas civilizações, cruzar oceanos, povoar (uma palavra falsa que substitui, por questões de foco, explorar) um outro continente, descobrir o tato do mundo com as próprias mãos. Essa é uma das poucas coisas que se mantém eterna durante os milênios: a sensação da conquista. Superar, degrau por degrau, uma grande escadaria sem fim, sem referências e sem sentido. Quando se chega na porta do fim, o prazer compensa tudo.
 
-<img src="https://brightspotcdn.byu.edu/dims4/default/76938c3/2147483647/strip/true/crop/981x981+22+0/resize/1200x1200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot.s3.amazonaws.com%2Fbb%2Fdc%2F8cac22222d208884ba9dc770cdc8%2Fescher-relativity-1024x981.jpg" width=500px alt="'Relativity', de M.C. Escher">
+<img src="/assets/articles/2023-05-01-Why_Hacking/relativity.jpg" width=600px alt="Gato do Tandera">
 _Relativity, de M.C. Escher_
 
 ### Por onde começar, então?

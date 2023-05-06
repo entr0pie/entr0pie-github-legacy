@@ -20,10 +20,10 @@ timezone: America/Sao_Paulo
 
 title: Tandera # the main title
 
-tagline: Hacker ético. Escrito no lado de lá do mediterrâneo. # it will display as the sub-title
+tagline: Ethical hacker, writer and developer from Brazil.
 
 description: >- # used by seo meta and the atom feed
-  Escrevo umas coisas e quebro alguns servidores.
+  Write-ups and articles about hacking and destructing digital stuff.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://entr0pie.github.io"
@@ -45,7 +45,7 @@ social:
     - https://github.com/entr0pie # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/
 
 google_site_verification: # fill in to your verification string
 

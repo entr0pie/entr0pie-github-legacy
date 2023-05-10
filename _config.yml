@@ -18,9 +18,10 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Tandera # the main title
+title: Thundera's Eye # the main title
 
-tagline: Ethical hacker, writer and developer from Brazil.
+tagline: Hacking portal by entr0pie, aka tandera.
+  "The true meaning of a code lies beyond its bytes."
 
 description: >- # used by seo meta and the atom feed
   Write-ups and articles about hacking and destructing digital stuff.
@@ -37,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Tandera
+  name: entr0pie
   email: notanemail@email.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

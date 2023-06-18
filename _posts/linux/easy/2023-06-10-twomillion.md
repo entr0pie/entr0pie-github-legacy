@@ -608,7 +608,7 @@ if [[ -n "$username" ]]; then
 This script receives only one argument, which is the `username`. Let's search for code who uses this file:
 
 ```shell
-grep -r "gen.sh" ~/tmp/.  
+grep -r "gen.sh" .  
 
 ~/tmp/html/controllers/VPNController.php: 
 exec("/bin/bash /var/www/html/VPN/gen.sh $user", $output, $return_var);

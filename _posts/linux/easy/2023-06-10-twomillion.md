@@ -10,6 +10,7 @@ show_image_post: true
 
 <img src="/assets/writeups/2023-06-10-twomillion/TwoMillion.png" width=500px alt="Infocard TwoMillion">
 
+## Machine Information
 
 ---
 - Alias: TwoMillion

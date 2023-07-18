@@ -472,7 +472,7 @@ Usage: binwalk [OPTIONS] [FILE1] [FILE2] [FILE3] ...
 
 Searching it in the [Binwalk releases](https://github.com/ReFirmLabs/binwalk/releases), we find a correction to [directory traversal](https://onekey.com/blog/security-advisory-remote-command-execution-in-binwalk/) vulnerability on the most recent version:
 
-<img src=/assets/writeups/2023-07-12-pilgrimage/binwalk.png>
+<img src="/assets/writeups/2023-07-12-pilgrimage/binwalk.png">
 
 The binwalk installed on the Server is vulnerable!
 

@@ -499,6 +499,8 @@ curl https://www.exploit-db.com/raw/51249 > exploit.py
 
 You can choose any image at your taste. I'm gonna use the [Dark Side Of The Moon](https://www.youtube.com/watch?v=k9ynZnEBtvw) cover (my little tribute to one of the best albums I've ever heard).
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4LH4d3cOWNNsVw41Gqt2kv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ```shell
 curl https://upload.wikimedia.org/wikipedia/pt/3/3b/Dark_Side_of_the_Moon.png > image.png
 ```

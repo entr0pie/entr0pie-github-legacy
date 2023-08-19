@@ -7,4 +7,5 @@ My corner of the internet. Hacking, development, essays.
 Powered by the [Chirpy Jekyll theme](https://github.com/cotes2020/jekyll-theme-chirpy). Make sure to install [jekyll](https://jekyllrb.com/docs/installation/) first.
 
 ## License
+
 As knowledge, nothing in this repo is really my property. You can read, use, modify, extent and anything you want, except claiming to be the author of this notes. If you want to quote it, credit the author and (if you're a really heartwarming person) make a link for this repo.

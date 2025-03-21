@@ -1,5 +1,6 @@
 # Thundera's Eye
 
+
 My corner of the internet. Hacking, development, essays. 
 
 > “I accept everything that comes from me because I have no knowledge of the causes, and it’s possible that I may be treading on the essential without knowing”, Clarice Lispector, Close to the Wild Heart.
